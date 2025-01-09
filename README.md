@@ -1,3 +1,5 @@
+# This repository is archived under Pulsar due to no longer being in use. The package `text-buffer` was the only user of this module, and was removed in [`atom/text-buffer#181`](https://github.com/atom/text-buffer/pull/181).
+
 # Span Skip-List [![Build Status](https://travis-ci.org/atom/span-skip-list.png)](https://travis-ci.org/atom/span-skip-list)
 
 This data structure stores arbitrary mappings between various dimensions and
